@@ -2,9 +2,7 @@
 ```markdown
 # Simple Solar System Simulation in C++
 
-
-![Solar System Simulation](assets/SolarSystem.gif)
-
+![](https://github.com/ChehabiMed/BasicSolarSystem/tree/main/assets/SolarSystem.gif)
 
 This project is a simple 2D solar system simulation implemented in C++ using **SFML** for graphics.  
 It was created for fun and primarily as a practice exercise to improve C++ skills with **classes**, object-oriented design, and SFML.
